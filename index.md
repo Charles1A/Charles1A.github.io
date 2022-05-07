@@ -9,13 +9,16 @@ __About__
 ### Sample Project
 
 __CASE:__ 
+
 An e-marketing entrepreneur used specialized software to track customer ordering activity.
 That software provided only basic descriptive analysis of the data.
 
 __APPROACH:__ 
+
 I cleaned and explored the data set and considered how different variables relate to each other. I then decided to compute Pearson's Correlation Coefficient (R) for different variable pairs. 
 
 __RESULT:__ 
+
 By referring to the **R** values, the client could easily evaluate the effectiveness of the client's e-marketing program across different measures. 
 
 **The graphs below represent some of the analyses I performed.**[^1]
@@ -25,8 +28,10 @@ By referring to the **R** values, the client could easily evaluate the effective
 | **A:** Boxplot. Shows the spread of the data. | 
 | **B-D:** Scatter plots with ordinary least squares trendlines. |
 
-__INTERPRETATION:__ 
 The *R* values (noted above the scatter plots) represent the strength of association between the variable pairs. The maximum possible *R* value is **1**: a perfect positive correlation. 
+
+__INTERPRETATION:__ 
+
 Historic customer lifetime value is not strongly correlated with number of days active. 
 Historic number of orders is not strongly correlated with number of days active.
 
