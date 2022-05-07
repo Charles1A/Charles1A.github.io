@@ -1,12 +1,10 @@
-## Charles | Freelance data analyst
+## Charles | Data analyst
 ### Helping entrepreneurs and small businesses extract maximum value from their data
 
 __About__
 - M.S. in Molecular Microbiology with coursework in statistics
 - Professionally experienced in data analysis
 - Author on multiple publications in scientific journals
-
-![image](https://user-images.githubusercontent.com/93352455/167264873-a881405d-afb6-4771-973a-286a7d211616.png)
 
 
 ### Sample project
@@ -18,8 +16,8 @@ I computed Pearson's Correlation Coefficient (R) for different variable pairs. T
 
 <img width="600" alt="Marketing_graphs_quadrants" src="https://user-images.githubusercontent.com/93352455/167263755-1637e8ff-319e-43a5-a479-0cc00dba1b75.png">
 
-| A: Boxplot. Shows the spread of the data | 
-| B-D: Scatter plot with ordinary least squares trendline |
+| A: Boxplot. Shows the spread of the data. | 
+| B-D: Scatter plots with ordinary least squares trendlines. |
 
 __INTERPRETATION:__ See the full notebook here: 
 
