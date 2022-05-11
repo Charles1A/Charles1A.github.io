@@ -1,8 +1,9 @@
-# Charles | Data Analyst
-### Helping entrepreneurs and small businesses extract maximum value from their data
+# Charles
+## - Data Analyst and Professional Researcher -
+### Helping entrepreneurs and small businesses extract maximum value from their data.
 
 __About__
-- M.S. in Molecular Microbiology with coursework in statistics
+- M.S. in Molecular Microbiology with courses in statistics
 - Professionally experienced in data analysis
 - Author on multiple publications in scientific journals
 
@@ -15,7 +16,7 @@ That software provided only basic descriptive analysis of the data.
 
 __APPROACH:__ 
 
-I cleaned and explored the data set and considered how different variables relate to each other. I then decided to compute Pearson's Correlation Coefficient (R) for different variable pairs. 
+I cleaned and explored the data set, and I considered how different variables related to one another. To quantify those relationships, I computed Pearson's Correlation Coefficient (R) for different variable pairs. This provided a more-coherent view of the client's business performance. 
 
 __RESULT:__ 
 
