@@ -1,5 +1,3 @@
-# Charles
-## - Data Specialist -
 ### Helping entrepreneurs and small businesses extract maximum value from their data.
 
 __About__
@@ -7,7 +5,7 @@ __About__
 - Author on multiple publications in scientific journals
 - Holder of a Master of Science in Molecular Microbiology with courses in statistics
 
-### Real-world Work Example
+### Real-world Work Sample
 
 __CASE:__ 
 
