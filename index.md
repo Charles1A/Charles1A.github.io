@@ -6,9 +6,6 @@ __About__
 - Author on multiple publications in scientific journals
 - Holder of a Master of Science in Molecular Microbiology with courses in statistics
 
-> I analyze data in a thoughtful and thorough manner.
-> This approach stems from my decade of work as a scientific researcher.
-
 ### Real-world Work Sample
 
 __Case:__ 
