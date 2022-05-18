@@ -6,21 +6,22 @@ __About__
 - Author on multiple publications in scientific journals
 - Holder of a Master of Science in Molecular Microbiology with courses in statistics
 
-#### I analyze data in a thoughtful and thorough manner. My approach is a product of my decade of work as a scientist.
+> I analyze data in a thoughtful and thorough manner.
+> This approach stems from my decade of work as a scientific researcher.
 
 ### Real-world Work Sample
 
-__CASE:__ 
+__Case:__ 
 
 An e-marketing entrepreneur used specialized software to track customer ordering activity.
 That software provided only basic descriptive analysis of the data. 
 The e-marketer wanted a customized analysis that would unlock additional insights.
 
-__APPROACH:__ 
+__Approach:__ 
 
 I cleaned and explored the data set, and I considered how different variables related to one another. To quantify those relationships, I computed Pearson's Correlation Coefficient (R) for different variable pairs.
 
-__RESULT:__ 
+__Result:__ 
 
 The correlation values enabled the client to evaluate the performance of his e-marketing strategy across different dimensions. 
 
@@ -33,7 +34,7 @@ The correlation values enabled the client to evaluate the performance of his e-m
 
 The *R* values (noted above the scatter plots) represent the strength of association between the variable pairs. The maximum possible *R* value is **1**: a perfect positive correlation. 
 
-__INTERPRETATION:__ 
+__Interpretation:__ 
 
 Historic customer lifetime value is not strongly correlated with number of days active. 
 
@@ -53,4 +54,4 @@ I have data analysis/machine learning notebooks posted on Kaggle that draw on pu
 
 Visit: https://www.kaggle.com/charlesea/code
 
-#### Contact: charles1ashton (at) gmail (dot) com
+__Contact: charles1ashton (at) gmail (dot) com__
