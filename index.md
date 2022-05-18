@@ -1,9 +1,12 @@
+## Charles Ashton | Data Professional
 ### Helping entrepreneurs and small businesses extract maximum value from their data.
 
 __About__
-- Professionally experienced in data analysis and research methodology
+- Professionally experienced in data analysis
 - Author on multiple publications in scientific journals
 - Holder of a Master of Science in Molecular Microbiology with courses in statistics
+
+#### I analyze data in a thoughtful and thorough manner. My approach is a product of my decade of work as a scientist.
 
 ### Real-world Work Sample
 
@@ -40,7 +43,7 @@ Full remarks and interpretation are available in the code notebook: [E-mail Mark
 
 [^1]: The client's data have been altered to maintain confidentiality.
 
-### Other Projects
+### Other Data Projects
 
 I have data analysis/machine learning notebooks posted on Kaggle that draw on publicly availabe datasets. These notebooks show the full sequence of steps I employ to clean, prepare, and analyze data.
 
@@ -49,3 +52,5 @@ I have data analysis/machine learning notebooks posted on Kaggle that draw on pu
 <img width="550" alt="Distributions_skew" src="https://user-images.githubusercontent.com/93352455/168410225-6263e39e-8d06-4f1e-8756-b54f0dc9e3f7.png">
 
 Visit: https://www.kaggle.com/charlesea/code
+
+#### Contact: charles1ashton (at) gmail (dot) com
