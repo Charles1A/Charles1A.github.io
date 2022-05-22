@@ -1,8 +1,9 @@
-## Charles Ashton | Data Professional
+## Charles Ashton | Data/Research Professional
 ### Helping entrepreneurs and small businesses extract maximum value from their data.
+__Contact: charles1ashton (at) gmail (dot) com__
 
 __About__
-- Professionally experienced in data analysis
+- Professionally experienced in data analysis and scientific research
 - Author on multiple publications in scientific journals
 - Holder of a Master of Science in Molecular Microbiology with courses in statistics
 
@@ -51,4 +52,10 @@ I have data analysis/machine learning notebooks posted on Kaggle that draw on pu
 
 Visit: https://www.kaggle.com/charlesea/code
 
-__Contact: charles1ashton (at) gmail (dot) com__
+### Interesting Reading
+
+Concice review of a fundamental concept in statistics: [Standard deviations and standard errors](https://pubmed.ncbi.nlm.nih.gov/16223828/)
+
+Brief overview of data transformation and important considerations: [Data transformations](https://www.biostathandbook.com/transformation.html)
+
+Discussion of potential pitfalls of using log transformation in data analysis: [Log-transformation and its implications for data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120293/)
