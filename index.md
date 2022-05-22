@@ -1,6 +1,5 @@
 ## Charles Ashton | Data/Research Professional
 ### Helping entrepreneurs and small businesses extract maximum value from their data.
-__Contact: charles1ashton (at) gmail (dot) com__
 
 __About__
 - Professionally experienced in data analysis and scientific research
@@ -54,7 +53,7 @@ Visit: https://www.kaggle.com/charlesea/code
 
 ### Interesting Reading
 
-Concice review of a fundamental concept in statistics: [Standard deviations and standard errors](https://pubmed.ncbi.nlm.nih.gov/16223828/)
+Concise review of a fundamental concept in statistics: [Standard deviations and standard errors](https://pubmed.ncbi.nlm.nih.gov/16223828/)
 
 Brief overview of data transformation and important considerations: [Data transformations](https://www.biostathandbook.com/transformation.html)
 
