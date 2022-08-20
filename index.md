@@ -1,22 +1,21 @@
 ## Charles Ashton | Data/Research Professional
-### Helping entrepreneurs and small businesses extract maximum value from their data.
+### Helping others extract maximum value from their data.
 
 __About__
-- Professionally experienced in data analysis and scientific research
-- Author on multiple publications in scientific journals
-- Holder of a Master of Science in Molecular Microbiology with courses in statistics
+- Professionally experienced in data analysis and research.
+- Author on several publications in scientific journals.
+- Holder of a Master of Science in Molecular Microbiology with courses in statistics.
 
 ### Real-world Work Sample
 
 __Case:__ 
 
 An e-marketing entrepreneur used specialized software to track customer ordering activity.
-That software provided only basic descriptive analysis of the data. 
-The e-marketer wanted a customized analysis that would unlock additional insights.
+That software provided basic descriptive analysis of the data, but the e-marketer wanted a customized analysis to unlock additional insights.
 
 __Approach:__ 
 
-I cleaned and explored the data set, and I considered how different variables related to one another. To quantify those relationships, I computed Pearson's Correlation Coefficient (R) for different variable pairs.
+I cleaned and explored the data set, and I considered how different variables related to one another. To quantify those relationships, I computed Pearson's Correlation Coefficient (R) for different variable pairs. I derived a new variable, Days Active, to enable time-based correlations.
 
 __Result:__ 
 
@@ -31,7 +30,7 @@ The correlation values enabled the client to evaluate the performance of his e-m
 
 The *R* values (noted above the scatter plots) represent the strength of association between the variable pairs. The maximum possible *R* value is **1**: a perfect positive correlation. 
 
-__Interpretation:__ 
+__Partial Interpretation:__ 
 
 Historic customer lifetime value is not strongly correlated with number of days active. 
 
@@ -53,7 +52,7 @@ Visit: https://www.kaggle.com/charlesea/code
 
 ### Interesting Reading
 
-Concise review of a fundamental concept in statistics: [Standard deviations and standard errors](https://pubmed.ncbi.nlm.nih.gov/16223828/)
+Concise review of standard deviation, a fundamental concept in statistics: [Standard deviations and standard errors](https://pubmed.ncbi.nlm.nih.gov/16223828/)
 
 Brief overview of data transformation and important considerations: [Data transformations](https://www.biostathandbook.com/transformation.html)
 
