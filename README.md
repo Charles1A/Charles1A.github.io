@@ -1,4 +1,4 @@
-### Data Professional. Please see a sample analysis project in the 'Demos' folder.
+### Data Professional. Please see sample analysis project in the 'Demos' folder.
 
 <!--
 **Charles1A/Charles1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
