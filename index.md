@@ -10,12 +10,16 @@ __About__
 
 __Case:__ 
 
-An e-marketing entrepreneur used specialized software to track customer ordering activity.
+An e-marketing entrepreneur was using a commercial SaaS product to track customer ordering activity and marketing campaign performance.
 That software provided basic descriptive analysis of the data, but the e-marketer wanted a customized analysis to unlock additional insights.
 
 __Approach:__ 
 
-I cleaned and explored the data set, and I considered how different variables related to one another. To quantify those relationships, I computed Pearson's Correlation Coefficient (R) for different variable pairs. I derived a new variable, Days Active, to enable time-based correlations.
+I cleaned and explored the data set that was provided to me, and considered how different variables related to one another. To quantify those relationships, I computed Pearson's Correlation Coefficient (R) for different variable pairs. I derived a new variable, Days Active, to enable time-based correlations. I created a dashboard to present the analysis in an approachable, updatable way. The principal questions I sought to address were:
+
+Q1: Does the historic number of orders increase the longer someone is a customer?
+Q2: Does historic Customer Lifetime Value increase the longer a customer has been active?
+Q3: Does Historic Customer Lifetime Value increase with the Historic Number Of Orders?
 
 __Result:__ 
 
@@ -29,6 +33,10 @@ The correlation values enabled the client to evaluate the performance of his e-m
 | **B-D:** Scatter plots with ordinary least squares trendlines. |
 
 The *R* values (noted above the scatter plots) represent the strength of association between the variable pairs. The maximum possible *R* value is **1**: a perfect positive correlation. 
+
+Dashboard presentation of the analyses: <img width="1234" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
+
+Visit: [https://order-data-analysis-dashboard.onrender.com/]
 
 __Partial Interpretation:__ 
 
