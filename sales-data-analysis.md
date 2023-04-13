@@ -26,7 +26,7 @@ The correlation values enabled the client to evaluate the performance of his e-m
 
 The *R* values (noted above the scatter plots) represent the strength of association between the variable pairs. The maximum possible *R* value is **1**: a perfect positive correlation. 
 
-Dashboard presentation of the analyses: <img width="1234" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
+Dashboard presentation of the analyses: <img width="600" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
 
 Visit: https://order-data-analysis-dashboard.onrender.com/
 
