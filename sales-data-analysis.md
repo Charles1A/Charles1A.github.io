@@ -2,8 +2,8 @@
 
 __Case:__ 
 
-An e-marketing entrepreneur was using a commercial SaaS product to track customer ordering activity and marketing campaign performance.
-That software provided basic descriptive analysis of the data, but the e-marketer wanted a customized analysis to unlock additional insights.
+An e-marketing/e-commerce entrepreneur was using a commercial SaaS product to track customer ordering activity and marketing campaign performance.
+That software provided basic descriptive analysis of the data, but the client wanted a customized analysis to unlock additional insights.
 
 __Approach:__ 
 
@@ -17,18 +17,20 @@ __Result:__
 
 The correlation values enabled the client to evaluate the performance of his e-marketing strategy across different dimensions. 
 
-**The graphs below represent some of the analyses I performed for this client.**[^1]
+The graphs below represent some of the analyses I performed for this client.[^1]
 
-<img width="600" alt="Marketing_graphs_quadrants" src="https://user-images.githubusercontent.com/93352455/167263755-1637e8ff-319e-43a5-a479-0cc00dba1b75.png">
+<img width="500" alt="Marketing_graphs_quadrants" src="https://user-images.githubusercontent.com/93352455/167263755-1637e8ff-319e-43a5-a479-0cc00dba1b75.png">
 
 | **A:** Boxplot. Shows the spread of the data. | 
 | **B-D:** Scatter plots with ordinary least squares trendlines. |
 
 The *R* values (noted above the scatter plots) represent the strength of association between the variable pairs. The maximum possible *R* value is **1**: a perfect positive correlation. 
 
-Dashboard presentation of the analyses: <img width="600" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
+__Dashboard:__ 
 
-Visit: https://order-data-analysis-dashboard.onrender.com/
+[View live dashboard here](https://order-data-analysis-dashboard.onrender.com/)
+
+<img width="600" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
 
 __Partial Interpretation:__ 
 
