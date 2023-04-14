@@ -1,41 +1,47 @@
-## Charles Ashton | Data/Research Professional
-### Helping you extract maximum value from your data.
-
-__About__
-- Professionally experienced in data analysis and research.
-- Author on several publications in scientific journals.
-- Holder of a Master of Science in Molecular Microbiology with courses in statistics.
-- Python proficiency badge from LinkedIn
-
-### Work Samples
+# Charles Ashton | Data/Research Professional
+### Helping you leverage your data for maximum value.
 
 ---
 
-Dashboard created for an e-marketing/e-commerce client:
+### About
+- Professionally experienced in data analysis and research.
+- Author on several publications in scientific journals.
+- Holder of a Master of Science in Molecular Microbiology with courses in statistics.
+- Python proficiency badge from LinkedIn.
+
+---
+
+### Work Samples
+
+#### Dashboard created for an e-marketing/e-commerce client.
 
 <img width="450" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
 
 [Live dashboard](https://order-data-analysis-dashboard.onrender.com/)
 
-Overview of the steps I took to analyze the data: [Sales data analysis page](/sales-data-analysis.md)
+[Overview of the steps I took to analyze the data.](/sales-data-analysis.md)
 
----
+■■■■■■
 
-Dashboard showing stock price correlations:
+#### Dashboard showing stock price correlations.
 
 <img width="450" alt="Screen Shot 2023-04-12 at 10 06 06 PM" src="https://user-images.githubusercontent.com/93352455/231640481-eb321e15-ec30-42c5-8b6d-6be74fe209af.png">
 
 [Live dashboard](https://charles1a-stock-correlations-stock-correlations-app-t9rt1p.streamlit.app/)
 
----
+■■■■■■
 
-Screengrab of animated scatter plot showing changes in Nasdaq 100 stock returns and standard deviations over four quarters:
+#### Animated scatter plot (screengrab below).
 
-<img width="450" alt="Screen Shot 2023-04-12 at 10 41 02 PM" src="https://user-images.githubusercontent.com/93352455/231646272-6c72e982-99ea-4353-b8ef-99f01a98516e.png">
+When played in a Web browser, the plot shows changes in Nasdaq 100 stock returns (*y*) and standard deviations (*x*) over four quarters.
+
+<img width="400" alt="Screen Shot 2023-04-13 at 7 49 23 PM" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
 
 Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb)
 
----
+This animated scatter plot demonstrates how to present time series data concisely. I provide an extended commentary about this in a [post on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) Generally, Python-based tools enable us to present data more concisely than conventional modes of presentation do.
+
+■■■■■■
 
 ### Other Data Projects
 
