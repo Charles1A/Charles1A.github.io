@@ -39,7 +39,7 @@ When played in a Web browser, the plot shows changes in Nasdaq 100 stock returns
 
 Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb)
 
-This animated scatter plot demonstrates how to present time series data concisely. I provide an extended commentary about this in a [post on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) Generally, Python-based tools enable us to present data more concisely than conventional modes of presentation do.
+This animated scatter plot demonstrates how to present time series data concisely. I provide an extended commentary about this in a [post on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) Python-based tools enable us to present data more concisely than do conventional modes of presentation.
 
 ■■■■■■
 
