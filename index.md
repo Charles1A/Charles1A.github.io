@@ -1,5 +1,5 @@
 # Charles Ashton | Data/Research Professional
-### Helping you leverage your data for maximum value.
+### Helping you extract maximum value from your data.
 
 ---
 
@@ -31,15 +31,15 @@
 
 ■■■■■■
 
-#### Animated scatter plot (screengrab below).
+#### Animated scatter plot showing changes in Nasdaq 100 stock returns (*y*) and standard deviations (*x*) over four quarters.
 
-When played in a Web browser, the plot shows changes in Nasdaq 100 stock returns (*y*) and standard deviations (*x*) over four quarters.
+(screengrab)
 
 <img width="400" alt="Screen Shot 2023-04-13 at 7 49 23 PM" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
 
 Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb)
 
-This animated scatter plot demonstrates how to present time series data concisely. I provide an extended commentary about this in a [post on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) Takeaway: Python-based tools enable us to present data more concisely than ever.
+A movie capture of the animation along with written commentary are available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) Takeaway: The plot demonstrates how you can leverage Python-based tools to present time series data concisely.
 
 ■■■■■■
 
