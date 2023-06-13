@@ -1,13 +1,9 @@
 # Charles Ashton | Data/Research Professional
-### Helping you extract maximum value from your data.
 
----
-
-### About
 - Professionally experienced in data analysis and research.
 - Author on several publications in scientific journals.
-- Holder of a Master of Science in Molecular Microbiology with courses in statistics.
-- Python proficiency badge from LinkedIn.
+- Has master's degree in Molecular Microbiology with courses in statistics.
+- Holds Python proficiency badge from LinkedIn.
 
 ---
 
@@ -33,27 +29,21 @@
 
 #### Animated scatter plot showing changes in Nasdaq 100 stock returns (*y*) and standard deviations (*x*) over four quarters.
 
-(screengrab)
+The figure below is a screengrab. A movie capture of the animation along with written commentary are available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) (Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb).) The plot demonstrates how one can leverage Python-based tools to present time series data concisely.
 
 <img width="400" alt="Screen Shot 2023-04-13 at 7 49 23 PM" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
 
-Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb)
+■■■■■■
 
-A movie capture of the animation along with written commentary are available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) Takeaway: The plot demonstrates how you can leverage Python-based tools to present time series data concisely.
+#### Kaggle Data Projects
+
+I have data analysis and machine learning notebooks on Kaggle that draw on publicly availabe datasets. These notebooks show the full sequence of steps I employ to clean, prepare, and analyze data. The figure below is from a notebook demonstrating the use of summary statistics, word clouds, the Shapiro-Wilk test for normality, logistic regression, and Boolean data filtering methods. Visit: https://www.kaggle.com/charlesea/code
+
+<img width="821" alt="airbnb_analysis_fig" src="https://github.com/Charles1A/Charles1A.github.io/assets/93352455/9b848bc7-7f5b-4590-bea3-ed0aeb96ae30">
 
 ■■■■■■
 
-### Other Data Projects
-
-I have data analysis/machine learning notebooks posted on Kaggle that draw on publicly availabe datasets. These notebooks show the full sequence of steps I employ to clean, prepare, and analyze data.
-
-<img width="550" alt="Data Visualization   Price Prediction" src="https://user-images.githubusercontent.com/93352455/168410218-921a59a2-f16b-4df0-af09-3cff8c7d8b1b.png">
-
-<img width="550" alt="Distributions_skew" src="https://user-images.githubusercontent.com/93352455/168410225-6263e39e-8d06-4f1e-8756-b54f0dc9e3f7.png">
-
-Visit: https://www.kaggle.com/charlesea/code
-
-### Interesting Reading
+#### Relevant Reading
 
 Concise review of standard deviation, a fundamental concept in statistics: [Standard deviations and standard errors](https://pubmed.ncbi.nlm.nih.gov/16223828/)
 
