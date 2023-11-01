@@ -1,7 +1,7 @@
 # Charles Ashton, M.S. | Data/Research Professional
 
-- Professionally experienced in data analysis and research.
-- Author on several scientific journal publications.
+- Professionally experienced in data analysis and research
+- Author on several scientific journal publications
 - Holds LinkedIn Python proficiency badge
 
 ---
