@@ -20,7 +20,8 @@
 
 #### Dashboard showing stock price movement data: percent changes and correlations.
 
-<img width="450" alt="Stock Data Dashboard" src="https://github.com/user-attachments/assets/72a67bf6-c142-4391-8188-1cc39338f64a.png">
+<img width="450" alt="Stock Data Dashboard" src="https://github.com/user-attachments/assets/b867170b-4492-4d78-873a-2b3842ec6aff">
+
 
 [Live dashboard](https://stock-data-dashboard-charles.streamlit.app/)
 
