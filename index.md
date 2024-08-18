@@ -18,11 +18,11 @@
 
 ■■■■■■
 
-#### Dashboard showing stock price correlations.
+#### Dashboard showing stock price movement data: percent changes and correlations.
 
-<img width="450" alt="Screen Shot 2023-04-12 at 10 06 06 PM" src="https://user-images.githubusercontent.com/93352455/231640481-eb321e15-ec30-42c5-8b6d-6be74fe209af.png">
+<img width="450" alt="Stock Data Dashboard" src="https://github.com/user-attachments/assets/72a67bf6-c142-4391-8188-1cc39338f64a.png">
 
-[Live dashboard](https://charles1a-stock-correlations-stock-correlations-app-t9rt1p.streamlit.app/)
+[Live dashboard](https://stock-data-dashboard-charles.streamlit.app/)
 
 ■■■■■■
 
