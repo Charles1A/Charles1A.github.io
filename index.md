@@ -3,7 +3,8 @@
 - Professionally experienced in data analysis and research
 - Author on several peer-reviewed scientific publications
 - Holds LinkedIn proficiency badge in Python
-#
+
+
 ### Work Examples
 
 #### Dashboard for an e-marketing/e-commerce client.
@@ -14,7 +15,7 @@
 
 [Overview of the steps I took to analyze the data.](/sales-data-analysis.md)
 
-#
+
 
 #### Dashboard showing stock price movement data: percent changes and correlations.
 
@@ -24,7 +25,7 @@
 
 [Live dashboard](https://stock-data-dashboard-charles.streamlit.app/)
 
-#
+
 
 #### Animated scatter plot showing changes in Nasdaq 100 stock returns (*y*) and standard deviations (*x*) over four quarters.
 
@@ -32,7 +33,7 @@ The figure below is a screengrab. A movie capture of the animation along with wr
 
 <img width="400" alt="Stock data scatter plot" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
 
-#
+
 
 #### Kaggle Data Projects
 
@@ -40,7 +41,7 @@ I have data analysis and machine learning notebooks on Kaggle that draw on publi
 
 <img width="600" alt="airbnb_analysis_fig" src="https://github.com/Charles1A/Charles1A.github.io/assets/93352455/9b848bc7-7f5b-4590-bea3-ed0aeb96ae30">
 
-#
+
 
 #### Relevant Reading
 
