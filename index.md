@@ -1,12 +1,9 @@
-# Charles Ashton, M.S.
-### Data/Research Professional
+# Charles Ashton, M.S. | Data/Research Professional
 
 - Professionally experienced in data analysis and research
 - Author on several peer-reviewed scientific publications
-- Has LinkedIn proficiency badge for Python
-
----
-
+- Holds LinkedIn proficiency badge in Python
+#
 ### Work Examples
 
 #### Dashboard for an e-marketing/e-commerce client.
@@ -17,35 +14,33 @@
 
 [Overview of the steps I took to analyze the data.](/sales-data-analysis.md)
 
-■■■■■■
+#
 
 #### Dashboard showing stock price movement data: percent changes and correlations.
 
-<img width="450" alt="Stock Data Dashboard" src="https://github.com/user-attachments/assets/b867170b-4492-4d78-873a-2b3842ec6aff">
+<img width="430" alt="Stock-data-dashboard-percent-changes" src="https://github.com/user-attachments/assets/343b6650-46d1-4cdc-95cd-1ea9f8bfe382">
 
-<img width="400" alt="Stock-data-dashboard-percent-changes" src="https://github.com/user-attachments/assets/343b6650-46d1-4cdc-95cd-1ea9f8bfe382">
-
-<img width="400" alt="Stock-data-dashboard-correlogram" src="https://github.com/user-attachments/assets/68002d04-374d-486d-a528-588b980393e4">
+<img width="430" alt="Stock-data-dashboard-correlogram" src="https://github.com/user-attachments/assets/68002d04-374d-486d-a528-588b980393e4">
 
 [Live dashboard](https://stock-data-dashboard-charles.streamlit.app/)
 
-■■■■■■
+#
 
 #### Animated scatter plot showing changes in Nasdaq 100 stock returns (*y*) and standard deviations (*x*) over four quarters.
 
 The figure below is a screengrab. A movie capture of the animation along with written commentary are available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) (Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb).) The plot demonstrates how one can leverage Python-based tools to present time series data concisely.
 
-<img width="400" alt="Screen Shot 2023-04-13 at 7 49 23 PM" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
+<img width="400" alt="Stock data scatter plot" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
 
-■■■■■■
+#
 
 #### Kaggle Data Projects
 
 I have data analysis and machine learning notebooks on Kaggle that draw on publicly availabe datasets. These notebooks show the full sequence of steps I employ to clean, prepare, and analyze data. The figure below is from a notebook demonstrating the use of summary statistics, word clouds, the Shapiro-Wilk test for normality, logistic regression, and Boolean data filtering methods. Visit: https://www.kaggle.com/charlesea/code
 
-<img width="821" alt="airbnb_analysis_fig" src="https://github.com/Charles1A/Charles1A.github.io/assets/93352455/9b848bc7-7f5b-4590-bea3-ed0aeb96ae30">
+<img width="600" alt="airbnb_analysis_fig" src="https://github.com/Charles1A/Charles1A.github.io/assets/93352455/9b848bc7-7f5b-4590-bea3-ed0aeb96ae30">
 
-■■■■■■
+#
 
 #### Relevant Reading
 
