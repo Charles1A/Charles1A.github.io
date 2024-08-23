@@ -1,14 +1,15 @@
-# Charles Ashton, M.S. | Data/Research Professional
+# Charles Ashton, M.S.
+### Data/Research Professional
 
 - Professionally experienced in data analysis and research
-- Author on several scientific journal publications
-- Holds LinkedIn Python proficiency badge
+- Author on several peer-reviewed scientific publications
+- Has LinkedIn proficiency badge for Python
 
 ---
 
-### Work Samples
+### Work Examples
 
-#### Dashboard created for an e-marketing/e-commerce client.
+#### Dashboard for an e-marketing/e-commerce client.
 
 <img width="450" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
 
@@ -22,6 +23,9 @@
 
 <img width="450" alt="Stock Data Dashboard" src="https://github.com/user-attachments/assets/b867170b-4492-4d78-873a-2b3842ec6aff">
 
+<img width="400" alt="Stock-data-dashboard-percent-changes" src="https://github.com/user-attachments/assets/343b6650-46d1-4cdc-95cd-1ea9f8bfe382">
+
+<img width="400" alt="Stock-data-dashboard-correlogram" src="https://github.com/user-attachments/assets/68002d04-374d-486d-a528-588b980393e4">
 
 [Live dashboard](https://stock-data-dashboard-charles.streamlit.app/)
 
