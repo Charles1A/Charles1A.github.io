@@ -43,9 +43,11 @@ Butterfly histogram compares the number of 1-5 star ratings and 1-5 AI-determine
 
 <img width="400" alt="Butterfly histogram of sentiment scores and star ratings" src="https://github.com/user-attachments/assets/b36929c8-c7fa-439d-862f-bf7530c155e2">
 
-Scraper code available [here](Scraper_for_Yelp_reviews_of_Nobu_Malibu.ipynb)
+Scraper code available [here](Scrape-and-sentiment-analysis
+/Scraper_for_Yelp_reviews_of_Nobu_Malibu.ipynb)
 
-Sentiment analysis code available [here](Yelp_reviews_sentiment_analysis_with_transformers.ipynb)
+Sentiment analysis code available [here](Scrape-and-sentiment-analysis
+/Yelp_reviews_sentiment_analysis_with_transformers.ipynb)
 
 
 
