@@ -1,8 +1,8 @@
-# Charles Ashton, M.S. | Data/Research Professional
+## Charles Ashton, M.S. | Researcher, Analyst, Project Manager
 
-- Professionally experienced in data analysis and research
+- Professionally experienced in research and statistical data analysis
 - Author on several peer-reviewed scientific publications
-- Holds LinkedIn proficiency badge in Python
+- Holds LinkedIn proficiency badge in **Python**
 
 
 ### Work Examples
@@ -32,6 +32,20 @@
 The figure below is a screengrab. A movie capture of the animation along with written commentary are available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) (Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb).) The plot demonstrates how one can leverage Python-based tools to present time series data concisely.
 
 <img width="400" alt="Stock data scatter plot" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
+
+
+
+#### Sentiment analysis of scraped Yelp reviews (Nobu Malibu)
+
+Butterfly histogram compares the number of 1-5 star ratings and 1-5 AI-determined sentiment scores from scraped Yelp data
+
+
+
+<img width="400" alt="Butterfly histogram of sentiment scores and star ratings" src="https://github.com/user-attachments/assets/b36929c8-c7fa-439d-862f-bf7530c155e2">
+
+Scraper code available [here](Scraper_for_Yelp_reviews_of_Nobu_Malibu.ipynb)
+
+Sentiment analysis code available [here](Yelp_reviews_sentiment_analysis_with_transformers.ipynb)
 
 
 
