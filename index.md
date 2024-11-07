@@ -19,11 +19,11 @@
 
 #### Dashboard showing stock price movement data: percent changes and correlations.
 
-<img width="430" alt="Stock-data-dashboard-percent-changes" src="https://github.com/user-attachments/assets/343b6650-46d1-4cdc-95cd-1ea9f8bfe382">
+<img width="430" alt="Stock-dashboard-percent-changes" src="https://github.com/user-attachments/assets/d7689faf-0d5b-4de6-8261-4acf2c003da4">
 
-<img width="430" alt="Stock-data-dashboard-correlogram" src="https://github.com/user-attachments/assets/68002d04-374d-486d-a528-588b980393e4">
+<img width="430" alt="Stock-dashboard-correlogram" src="https://github.com/user-attachments/assets/3215fba5-271a-48ef-abb2-48120569c3b8">
 
-[Live dashboard](https://stock-data-dashboard-charles.streamlit.app/)
+[Live dashboard](https://stock-dashboard-charles-rev.streamlit.app/)
 
 
 
