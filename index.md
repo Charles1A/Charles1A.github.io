@@ -9,7 +9,7 @@
 
 #### Dashboard for an e-marketing/e-commerce client.
 
-<img width="450" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
+<img width="450" alt="Sales-Data-Dashboard" src="https://github.com/user-attachments/assets/2bac1651-b9f2-4206-b087-8476c4783262">
 
 [Live dashboard](https://order-data-analysis-dashboard.onrender.com/)
 
@@ -19,9 +19,7 @@
 
 #### Dashboard showing stock price movement data: percent changes and correlations.
 
-<img width="430" alt="Stock-dashboard-percent-changes" src="https://github.com/user-attachments/assets/d7689faf-0d5b-4de6-8261-4acf2c003da4">
-
-<img width="430" alt="Stock-dashboard-correlogram" src="https://github.com/user-attachments/assets/3215fba5-271a-48ef-abb2-48120569c3b8">
+<img width="450" alt="Stock-dashboard" src="https://github.com/user-attachments/assets/394422c4-9d91-4fa1-963c-5b27481b7c68">
 
 [Live dashboard](https://stock-dashboard-charles-rev.streamlit.app/)
 
