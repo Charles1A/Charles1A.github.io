@@ -30,7 +30,7 @@ __Dashboard:__
 
 [View live dashboard here](https://order-data-analysis-dashboard.onrender.com/)
 
-<img width="600" alt="Dashboard" src="https://user-images.githubusercontent.com/93352455/229388397-4e00e2d0-2815-4665-9431-48ebf4f59297.png">
+<img width="600" alt="Sales-Data-Dashboard" src="https://github.com/user-attachments/assets/fc87fdbd-7f66-4e5c-95e2-8f357371882d">
 
 __Partial Interpretation:__ 
 
