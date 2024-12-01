@@ -1,5 +1,7 @@
 ## Charles Ashton, M.S. | Researcher, Analyst, Project Manager
 
+Data analysis | Web scraping | Regression | Clustering | Correlation | Sentiment analysis
+
 - Professionally experienced in research and statistical data analysis
 - Author on several peer-reviewed scientific publications
 - Holds LinkedIn proficiency badge in **Python**
@@ -24,18 +26,9 @@
 [Live dashboard](https://stock-dashboard-charles-rev.streamlit.app/)
 
 
+#### Sentiment analysis of scraped Yelp reviews: Nobu Malibu
 
-#### Animated scatter plot showing changes in Nasdaq 100 stock returns (*y*) and standard deviations (*x*) over four quarters.
-
-The figure below is a screengrab. A movie capture of the animation along with written commentary are available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) (Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb).) The plot demonstrates how one can leverage Python-based tools to present time series data concisely.
-
-<img width="400" alt="Stock data scatter plot" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
-
-
-
-#### Sentiment analysis of scraped Yelp reviews (Nobu Malibu)
-
-Butterfly histogram compares the number of 1-5 star ratings and 1-5 AI-determined sentiment scores from scraped Yelp data
+Butterfly histogram compares the star ratings and AI-determined sentiment scores from scraped Yelp data.
 
 
 
@@ -47,18 +40,16 @@ Sentiment analysis code available [here](https://github.com/Charles1A/Scrape-and
 
 
 
-#### Kaggle Data Projects
+#### Airbnb dataset analysis: amenities vs price
 
-I have data analysis and machine learning notebooks on Kaggle that draw on publicly availabe datasets. These notebooks show the full sequence of steps I employ to clean, prepare, and analyze data. The figure below is from a notebook demonstrating the use of summary statistics, word clouds, the Shapiro-Wilk test for normality, logistic regression, and Boolean data filtering methods. Visit: https://www.kaggle.com/charlesea/code
+The figures below show a word cloud of listed amenities and a correlation study of price versus number of amenities. I present additional analyses along with a complete walk-through of my data cleaning and analysis steps in this notebook: [Airbnb In-depth Data Analysis](https://www.kaggle.com/code/charlesea/in-depth-exploratory-data-analysis-airbnb)
 
-<img width="600" alt="airbnb_analysis_fig" src="https://github.com/Charles1A/Charles1A.github.io/assets/93352455/9b848bc7-7f5b-4590-bea3-ed0aeb96ae30">
+<img width="600" alt="airbnb_analysis_fig" src="https://github.com/user-attachments/assets/548ddca9-6b64-4b35-a416-57eb56174274">
 
 
 
-#### Relevant Reading
+#### Animated scatter plot showing changes in Nasdaq 100 stock returns (*y*) and volatility (*x*) over four quarters.
 
-Concise review of standard deviation, a fundamental concept in statistics: [Standard deviations and standard errors](https://pubmed.ncbi.nlm.nih.gov/16223828/)
+The figure below is a screengrab. A movie capture of the animation along with written commentary are available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) (Code available [here](/animated_scatter_plot/Ndaq-100-animtd-scatter.ipynb).) The plot demonstrates how one can leverage Python-based tools to present time series data concisely.
 
-Brief overview of data transformation and important considerations: [Data transformations](https://www.biostathandbook.com/transformation.html)
-
-Discussion of potential pitfalls of using log transformation in data analysis: [Log-transformation and its implications for data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120293/)
+<img width="400" alt="Stock data scatter plot" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
