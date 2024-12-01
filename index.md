@@ -1,6 +1,7 @@
-## Charles Ashton, M.S. | Researcher, Analyst, Project Manager
+## Charles Ashton, M.S.
+#### Researcher, Analyst, Project Manager
 
-Data analysis | Web scraping | Regression | Clustering | Correlation | Sentiment analysis
+Data analysis | Statistics | Web scraping | Sentiment analysis
 
 - Professionally experienced in research and statistical data analysis
 - Author on several peer-reviewed scientific publications
