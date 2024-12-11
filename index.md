@@ -49,8 +49,8 @@ The figures below show a word cloud of listed amenities and a correlation study 
 
 
 
-#### Animated scatter plot showing changes in Nasdaq 100 stock returns (*y*) and volatility (*x*) over four quarters.
+#### Animation showing changes in stock returns (*y*) and volatility (*x*) over four quarters.
 
-The figure below is a screengrab. A movie capture of the animation along with written commentary are available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) (Code available [here](https://github.com/Charles1A/Nasdaq100_animated_scatter_plot).) The plot demonstrates how one can leverage Python-based tools to present time series data concisely.
+The animation demonstrates how to leverage Python-based tools to present time series data concisely. The figure below is a screengrab. The animation can be played in a Web browser from [a downloadable HTML file](https://github.com/Charles1A/Stock_animated_scatter_plot/blob/27679dda5656498e9b9adf2b85dc61b8ea26a271/stock-animtd-scatter-fig.html). Written commentary is available in a [post I wrote on LinkedIn.](https://www.linkedin.com/posts/charles-ashton-ms_python-dataanalysis-stocks-activity-7049775343758413824-svK2?utm_source=share&utm_medium=member_desktop) 
 
-<img width="400" alt="Stock data scatter plot" src="https://user-images.githubusercontent.com/93352455/231935365-b39915ee-3d1c-48d3-8af3-2fb526f1c65b.png">
+<img width="400" alt="Stock data scatter plot" src="https://github.com/user-attachments/assets/b3f43954-b688-4324-a13c-f7e4476aabee">
