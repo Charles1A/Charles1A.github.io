@@ -16,7 +16,7 @@ Data analysis | Statistics | Web scraping | Sentiment analysis
 
 [Live dashboard](https://order-data-analysis-dashboard.onrender.com/)
 
-[Overview of the steps I took to analyze the data.](/sales-data-analysis.md)
+[Overview of the steps I took to analyze the data.](https://github.com/Charles1A/e-commerce_data_analysis/blob/72fd0fdd6e033ac06f558468494430ab44eb5d8a/sales-data-analysis.md)
 
 
 
