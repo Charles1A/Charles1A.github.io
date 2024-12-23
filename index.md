@@ -24,7 +24,7 @@ Data analysis | Statistics | Web scraping | Sentiment analysis
 
 <img width="550" alt="Stock-dashboard" src="https://github.com/user-attachments/assets/394422c4-9d91-4fa1-963c-5b27481b7c68">
 
-[Live dashboard](https://stock-dashboard-charles-rev.streamlit.app/)
+[Live dashboard](https://stock-dashboard-charles.streamlit.app/)
 
 
 #### Sentiment analysis of scraped Yelp reviews: Nobu Malibu
