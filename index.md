@@ -51,6 +51,6 @@ The figures below show a word cloud of listed amenities and a correlation study 
 
 #### Animation showing changes in stock returns (*y*) and volatility (*x*) over four quarters.
 
-The animation demonstrates how to leverage Python-based tools to present time series data concisely. The figure below is a screengrab. The animation can be played in a Web browser after downloading the HTML file: [a downloadable HTML file](https://github.com/Charles1A/Stock_animated_scatter_plot/blob/27679dda5656498e9b9adf2b85dc61b8ea26a271/stock-animtd-scatter-fig.html).
+The animation demonstrates how to leverage Python-based tools to present time series data concisely. The figure below is a screengrab. The animation can be played in a Web browser after downloading the [HTML file].(https://github.com/Charles1A/Stock_animated_scatter_plot/blob/27679dda5656498e9b9adf2b85dc61b8ea26a271/stock-animtd-scatter-fig.html).
 
 <img width="400" alt="Stock data scatter plot" src="https://github.com/user-attachments/assets/b3f43954-b688-4324-a13c-f7e4476aabee">
